@@ -4,6 +4,8 @@ There are two parts to the Code Challenge that you'll need to complete.
 - Code Tests
 - A Super Small Web App
 
+Best to start by forking this repo
+
 ## Code Tests
 
 A Doshii staff member will assign two of the tests located in this repo to you. Generally the idea is to modify the code so that the tests pass. Greater detail as to what is expected is located in each test subdirectory.
@@ -11,7 +13,7 @@ A Doshii staff member will assign two of the tests located in this repo to you. 
 ## A Super Small Web App
 
 Doshii recently released a Rewards section of the API. Create a simple CRUD application with a Rewards theme using the following technologies
-- NodeJS
+- NodeJS (ES6)
 - An SQL flavour
 
 As part of your solution please specify any:
