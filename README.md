@@ -2,6 +2,7 @@
 
 There are two parts to the Code Challenge that you'll need to complete.
 - Code Tests
+- Questionnaire
 - A Super Small Web App
 
 Best to start by forking this repo
@@ -9,6 +10,10 @@ Best to start by forking this repo
 ## Code Tests
 
 A Doshii staff member will assign two of the tests located in this repo to you. Generally the idea is to modify the code so that the tests pass. Greater detail as to what is expected is located in each test subdirectory.
+
+## Questionnaire
+
+Please answer the questions provided in the file `questionairre/README.md`
 
 ## A Super Small Web App
 
